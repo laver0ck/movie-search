@@ -21,6 +21,6 @@ const Movie = ({movie}) => {
       <p>({movie.Year})</p>
     </div>
   );
-};
+}
 
 export default Movie;
